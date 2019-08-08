@@ -8,11 +8,8 @@ import javafx.stage.*;
 import javafx.scene.*;
 import javafx.scene.shape.*;
 import javafx.geometry.*;
-import javafx.scene.transform.*;
-import javafx.scene.text.*;
 import javafx.scene.layout.FlowPane;
 import javafx.scene.paint.*;
-import javafx.scene.input.KeyEvent;
 import javafx.embed.swing.SwingFXUtils;
 import javafx.event.*;
 import javafx.scene.image.*;
@@ -22,7 +19,6 @@ import javafx.scene.input.*;
 import javafx.scene.effect.*;
 
 import java.awt.image.*;
-import java.awt.Graphics;
 
 public class Main extends Application{
 	private static int toolbarHeight;

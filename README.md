@@ -2,7 +2,7 @@
 Minimalist photo editing application using JavaFX
 
 ## Requirements
-This project has been tested with JDK 10 through JDK 12. It requires the JavaFX library.
+This project has been tested with JDK 9 through JDK 12. It requires the JavaFX library.
 
 ## Screenshots
 ![Example screenshot](/screenshots/ImageEditScreenshot20190807.PNG?raw=true)
