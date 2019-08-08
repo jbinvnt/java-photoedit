@@ -193,8 +193,8 @@ public class Main extends Application{
 	
 	public static void main(String[] args){
 		boolean openFailed = false;
-		System.out.println("Java Image Editor - 2018");
-		System.out.println("Written by Joseph Black for Advanced Topics in Computer Science H");
+		System.out.println("Java Image Editor");
+		System.out.println("Written by Joseph Black");
 		System.out.println("Version 1.0.0");
 		System.out.print("Enter the canvas width in pixels: ");
 		canWidth = Double.parseDouble(consoleInput.nextLine());
