@@ -1,4 +1,4 @@
-# java-photoedit
+# Java Photo Editor
 Minimalist photo editing application using JavaFX
 
 ## Requirements
